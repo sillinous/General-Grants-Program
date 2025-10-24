@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(comm -23 /tmp/dir1.txt /tmp/dir2.txt)",
+      "Bash(comm -13 /tmp/dir1.txt /tmp/dir2.txt)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
